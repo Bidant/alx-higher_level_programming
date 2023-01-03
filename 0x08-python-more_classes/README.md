@@ -25,5 +25,6 @@ Tasks
 9. A square is a rectangle
    Write a class Rectangle that defines a rectangle by: (based on 8-rectangle.py)
 10. N queens
-    The N queens puzzle is the challenge of placing N non-attacking queens on an N×N chessboard. Write a program that
+    The N queens puzzle is basically the challenge of placing N non-attacking queens on an N×N chessboard. Write a
+    program that
     solves the N queens problem.
